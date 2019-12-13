@@ -6,9 +6,9 @@ Permite guardar usuarios y relacionarlos con los préstamos o plazos fijos solic
 
 ```bash
 # clonar el repositorio
-git clone https://github.com/marcorichetta/FinanzUP.git
+git clone https://github.com/Tubaher/project4.git
 
-cd FinanzUP
+cd project4
 
 # Crear un virtualenv (Opcional)
 python3 -m venv mivirtualenv -> Nombre del virtualenv
@@ -31,20 +31,3 @@ sqlite3 prueba.db < creacionDB.sql
 $ flask run
 ```
 Por defecto se puede ver la app en la dirección http://127.0.0.1:5000/ en el navegador.
-
-## :tada: Screenshots
-
-## Home
-![Home](./static/screenshots/Inicio.png)
-
-## Plazo Fijo
-![Plazo Fijo](./static/screenshots/PlazoFijo.png)
-
-## Préstamo
-![Préstamo](./static/screenshots/Prestamo.png)
-
-## Solicitud
-![Solicitud](./static/screenshots/Solicitud.png)
-
-## Listado
-![Listado](./static/screenshots/Listado.png)
