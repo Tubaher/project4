@@ -1,4 +1,4 @@
-# FinanzUP!
+# Project4
 Calculadora financiera para plazos fijos y préstamos.
 Permite guardar usuarios y relacionarlos con los préstamos o plazos fijos solicitados.
 
